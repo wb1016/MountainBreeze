@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Breeze")(type "KiCad")(uri "${KIPRJMOD}/Breeze.kicad_sym")(options "")(descr ""))
+)

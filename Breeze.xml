@@ -1,0 +1,1306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/Users/eithan/Projects/Afternoon Labs/CAD/PCB/Breeze/Breeze.sch</source>
+    <date>Sunday, April 04, 2021 at 08:16:33 PM</date>
+    <tool>Eeschema (5.1.9-0-10_14)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Breeze.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="SW1">
+      <value>CHOCXHSPCB-1U</value>
+      <footprint>Breeze:MX_Choc_Hotswap</footprint>
+      <libsource lib="Breeze-rescue" part="CHOCXHSPCB-1U-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE1CD82</tstamp>
+    </comp>
+    <comp ref="SW2">
+      <value>CHOCXHSPCB-1U</value>
+      <footprint>Breeze:MX_Choc_Hotswap</footprint>
+      <libsource lib="Breeze-rescue" part="CHOCXHSPCB-1U-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE20704</tstamp>
+    </comp>
+    <comp ref="SW3">
+      <value>CHOCXHSPCB-1U</value>
+      <footprint>Breeze:MX_Choc_Hotswap</footprint>
+      <libsource lib="Breeze-rescue" part="CHOCXHSPCB-1U-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE20B42</tstamp>
+    </comp>
+    <comp ref="SW4">
+      <value>CHOCXHSPCB-1U</value>
+      <footprint>Breeze:MX_Choc_Hotswap</footprint>
+      <libsource lib="Breeze-rescue" part="CHOCXHSPCB-1U-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE2128E</tstamp>
+    </comp>
+    <comp ref="SW5">
+      <value>CHOCXHSPCB-1U</value>
+      <footprint>Breeze:MX_Choc_Hotswap</footprint>
+      <libsource lib="Breeze-rescue" part="CHOCXHSPCB-1U-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE21972</tstamp>
+    </comp>
+    <comp ref="MC1">
+      <value>CHOCXHSPCB-1U</value>
+      <footprint>Breeze:MX_Choc_Hotswap</footprint>
+      <libsource lib="Breeze-rescue" part="CHOCXHSPCB-1U-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE223BA</tstamp>
+    </comp>
+    <comp ref="MC2">
+      <value>CHOCXHSPCB-1U</value>
+      <footprint>Breeze:MX_Choc_Hotswap</footprint>
+      <libsource lib="Breeze-rescue" part="CHOCXHSPCB-1U-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE228B0</tstamp>
+    </comp>
+    <comp ref="MC3">
+      <value>CHOCXHSPCB-1U</value>
+      <footprint>Breeze:MX_Choc_Hotswap</footprint>
+      <libsource lib="Breeze-rescue" part="CHOCXHSPCB-1U-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE22C36</tstamp>
+    </comp>
+    <comp ref="SW7">
+      <value>CHOCXHSPCB-1U</value>
+      <footprint>Breeze:MX_Choc_Hotswap</footprint>
+      <libsource lib="Breeze-rescue" part="CHOCXHSPCB-1U-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE2CACE</tstamp>
+    </comp>
+    <comp ref="SW8">
+      <value>CHOCXHSPCB-1U</value>
+      <footprint>Breeze:MX_Choc_Hotswap</footprint>
+      <libsource lib="Breeze-rescue" part="CHOCXHSPCB-1U-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE2CAD4</tstamp>
+    </comp>
+    <comp ref="SW9">
+      <value>CHOCXHSPCB-1U</value>
+      <footprint>Breeze:MX_Choc_Hotswap</footprint>
+      <libsource lib="Breeze-rescue" part="CHOCXHSPCB-1U-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE2CADA</tstamp>
+    </comp>
+    <comp ref="SW10">
+      <value>CHOCXHSPCB-1U</value>
+      <footprint>Breeze:MX_Choc_Hotswap</footprint>
+      <libsource lib="Breeze-rescue" part="CHOCXHSPCB-1U-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE2CAE0</tstamp>
+    </comp>
+    <comp ref="SW11">
+      <value>CHOCXHSPCB-1U</value>
+      <footprint>Breeze:MX_Choc_Hotswap</footprint>
+      <libsource lib="Breeze-rescue" part="CHOCXHSPCB-1U-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE2CAE6</tstamp>
+    </comp>
+    <comp ref="SW12">
+      <value>CHOCXHSPCB-1U</value>
+      <footprint>Breeze:MX_Choc_Hotswap</footprint>
+      <libsource lib="Breeze-rescue" part="CHOCXHSPCB-1U-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE2CAEC</tstamp>
+    </comp>
+    <comp ref="MC4">
+      <value>CHOCXHSPCB-1U</value>
+      <footprint>Breeze:MX_Choc_Hotswap</footprint>
+      <libsource lib="Breeze-rescue" part="CHOCXHSPCB-1U-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE2CAF2</tstamp>
+    </comp>
+    <comp ref="MC5">
+      <value>CHOCXHSPCB-1U</value>
+      <footprint>Breeze:MX_Choc_Hotswap</footprint>
+      <libsource lib="Breeze-rescue" part="CHOCXHSPCB-1U-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE2CAF8</tstamp>
+    </comp>
+    <comp ref="MC6">
+      <value>CHOCXHSPCB-1U</value>
+      <footprint>Breeze:MX_Choc_Hotswap</footprint>
+      <libsource lib="Breeze-rescue" part="CHOCXHSPCB-1U-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE2CAFE</tstamp>
+    </comp>
+    <comp ref="SW13">
+      <value>CHOCXHSPCB-1U</value>
+      <footprint>Breeze:MX_Choc_Hotswap</footprint>
+      <libsource lib="Breeze-rescue" part="CHOCXHSPCB-1U-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE2FD18</tstamp>
+    </comp>
+    <comp ref="SW14">
+      <value>CHOCXHSPCB-1U</value>
+      <footprint>Breeze:MX_Choc_Hotswap</footprint>
+      <libsource lib="Breeze-rescue" part="CHOCXHSPCB-1U-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE2FD1E</tstamp>
+    </comp>
+    <comp ref="SW15">
+      <value>CHOCXHSPCB-1U</value>
+      <footprint>Breeze:MX_Choc_Hotswap</footprint>
+      <libsource lib="Breeze-rescue" part="CHOCXHSPCB-1U-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE2FD24</tstamp>
+    </comp>
+    <comp ref="SW16">
+      <value>CHOCXHSPCB-1U</value>
+      <footprint>Breeze:MX_Choc_Hotswap</footprint>
+      <libsource lib="Breeze-rescue" part="CHOCXHSPCB-1U-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE2FD2A</tstamp>
+    </comp>
+    <comp ref="SW17">
+      <value>CHOCXHSPCB-1U</value>
+      <footprint>Breeze:MX_Choc_Hotswap</footprint>
+      <libsource lib="Breeze-rescue" part="CHOCXHSPCB-1U-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE2FD30</tstamp>
+    </comp>
+    <comp ref="SW18">
+      <value>CHOCXHSPCB-1U</value>
+      <footprint>Breeze:MX_Choc_Hotswap</footprint>
+      <libsource lib="Breeze-rescue" part="CHOCXHSPCB-1U-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE2FD36</tstamp>
+    </comp>
+    <comp ref="UP1">
+      <value>CHOCXHSPCB-1U</value>
+      <footprint>Breeze:MX_Choc_Hotswap</footprint>
+      <libsource lib="Breeze-rescue" part="CHOCXHSPCB-1U-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE2FD42</tstamp>
+    </comp>
+    <comp ref="SW19">
+      <value>CHOCXHSPCB-1U</value>
+      <footprint>Breeze:MX_Choc_Hotswap</footprint>
+      <libsource lib="Breeze-rescue" part="CHOCXHSPCB-1U-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE328AB</tstamp>
+    </comp>
+    <comp ref="SW20">
+      <value>CHOCXHSPCB-1U</value>
+      <footprint>Breeze:MX_Choc_Hotswap</footprint>
+      <libsource lib="Breeze-rescue" part="CHOCXHSPCB-1U-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE328B1</tstamp>
+    </comp>
+    <comp ref="SW21">
+      <value>CHOCXHSPCB-1U</value>
+      <footprint>Breeze:MX_Choc_Hotswap</footprint>
+      <libsource lib="Breeze-rescue" part="CHOCXHSPCB-1U-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE328B7</tstamp>
+    </comp>
+    <comp ref="SW22">
+      <value>CHOCXHSPCB-1U</value>
+      <footprint>Breeze:MX_Choc_Hotswap</footprint>
+      <libsource lib="Breeze-rescue" part="CHOCXHSPCB-1U-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE328BD</tstamp>
+    </comp>
+    <comp ref="SW23">
+      <value>CHOCXHSPCB-1U</value>
+      <footprint>Breeze:MX_Choc_Hotswap</footprint>
+      <libsource lib="Breeze-rescue" part="CHOCXHSPCB-1U-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE328C3</tstamp>
+    </comp>
+    <comp ref="SW24">
+      <value>CHOCXHSPCB-1U</value>
+      <footprint>Breeze:MX_Choc_Hotswap</footprint>
+      <libsource lib="Breeze-rescue" part="CHOCXHSPCB-1U-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE328C9</tstamp>
+    </comp>
+    <comp ref="LEFT1">
+      <value>CHOCXHSPCB-1U</value>
+      <footprint>Breeze:MX_Choc_Hotswap</footprint>
+      <libsource lib="Breeze-rescue" part="CHOCXHSPCB-1U-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE328CF</tstamp>
+    </comp>
+    <comp ref="DOWN1">
+      <value>CHOCXHSPCB-1U</value>
+      <footprint>Breeze:MX_Choc_Hotswap</footprint>
+      <libsource lib="Breeze-rescue" part="CHOCXHSPCB-1U-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE328D5</tstamp>
+    </comp>
+    <comp ref="RIGHT1">
+      <value>CHOCXHSPCB-1U</value>
+      <footprint>Breeze:MX_Choc_Hotswap</footprint>
+      <libsource lib="Breeze-rescue" part="CHOCXHSPCB-1U-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE328DB</tstamp>
+    </comp>
+    <comp ref="TC1">
+      <value>CHOCXHSPCB-1U</value>
+      <footprint>Breeze:MX_Choc_Hotswap</footprint>
+      <libsource lib="Breeze-rescue" part="CHOCXHSPCB-1U-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE366E5</tstamp>
+    </comp>
+    <comp ref="TC2">
+      <value>CHOCXHSPCB-1U</value>
+      <footprint>Breeze:MX_Choc_Hotswap</footprint>
+      <libsource lib="Breeze-rescue" part="CHOCXHSPCB-1U-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE366EB</tstamp>
+    </comp>
+    <comp ref="TC3">
+      <value>CHOCXHSPCB-1U</value>
+      <footprint>Breeze:MX_Choc_Hotswap</footprint>
+      <libsource lib="Breeze-rescue" part="CHOCXHSPCB-1U-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE366F1</tstamp>
+    </comp>
+    <comp ref="TC4">
+      <value>CHOCXHSPCB-1U</value>
+      <footprint>Breeze:MX_Choc_Hotswap</footprint>
+      <libsource lib="Breeze-rescue" part="CHOCXHSPCB-1U-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE366F7</tstamp>
+    </comp>
+    <comp ref="SW6">
+      <value>CHOCXHSPCB-1U</value>
+      <footprint>Breeze:MX_Choc_Hotswap</footprint>
+      <libsource lib="Breeze-rescue" part="CHOCXHSPCB-1U-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE21E96</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>DIODE</value>
+      <footprint>Breeze:SOD-123FL</footprint>
+      <fields>
+        <field name="LCSC">C64898</field>
+      </fields>
+      <libsource lib="Breeze-rescue" part="Diode-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE39E90</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>DIODE</value>
+      <footprint>Breeze:SOD-123FL</footprint>
+      <fields>
+        <field name="LCSC">C64898</field>
+      </fields>
+      <libsource lib="Breeze-rescue" part="Diode-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE3E21A</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>DIODE</value>
+      <footprint>Breeze:SOD-123FL</footprint>
+      <fields>
+        <field name="LCSC">C64898</field>
+      </fields>
+      <libsource lib="Breeze-rescue" part="Diode-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE3E808</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>DIODE</value>
+      <footprint>Breeze:SOD-123FL</footprint>
+      <fields>
+        <field name="LCSC">C64898</field>
+      </fields>
+      <libsource lib="Breeze-rescue" part="Diode-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE3F004</tstamp>
+    </comp>
+    <comp ref="DMC1">
+      <value>DIODE</value>
+      <footprint>Breeze:SOD-123FL</footprint>
+      <fields>
+        <field name="LCSC">C64898</field>
+      </fields>
+      <libsource lib="Breeze-rescue" part="Diode-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE3FA70</tstamp>
+    </comp>
+    <comp ref="DMC2">
+      <value>DIODE</value>
+      <footprint>Breeze:SOD-123FL</footprint>
+      <fields>
+        <field name="LCSC">C64898</field>
+      </fields>
+      <libsource lib="Breeze-rescue" part="Diode-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE40171</tstamp>
+    </comp>
+    <comp ref="D6">
+      <value>DIODE</value>
+      <footprint>Breeze:SOD-123FL</footprint>
+      <fields>
+        <field name="LCSC">C64898</field>
+      </fields>
+      <libsource lib="Breeze-rescue" part="Diode-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE407C3</tstamp>
+    </comp>
+    <comp ref="DMC3">
+      <value>DIODE</value>
+      <footprint>Breeze:SOD-123FL</footprint>
+      <fields>
+        <field name="LCSC">C64898</field>
+      </fields>
+      <libsource lib="Breeze-rescue" part="Diode-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE40D98</tstamp>
+    </comp>
+    <comp ref="D7">
+      <value>DIODE</value>
+      <footprint>Breeze:SOD-123FL</footprint>
+      <fields>
+        <field name="LCSC">C64898</field>
+      </fields>
+      <libsource lib="Breeze-rescue" part="Diode-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE566A9</tstamp>
+    </comp>
+    <comp ref="D8">
+      <value>DIODE</value>
+      <footprint>Breeze:SOD-123FL</footprint>
+      <fields>
+        <field name="LCSC">C64898</field>
+      </fields>
+      <libsource lib="Breeze-rescue" part="Diode-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE566AF</tstamp>
+    </comp>
+    <comp ref="D9">
+      <value>DIODE</value>
+      <footprint>Breeze:SOD-123FL</footprint>
+      <fields>
+        <field name="LCSC">C64898</field>
+      </fields>
+      <libsource lib="Breeze-rescue" part="Diode-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE566B5</tstamp>
+    </comp>
+    <comp ref="D10">
+      <value>DIODE</value>
+      <footprint>Breeze:SOD-123FL</footprint>
+      <fields>
+        <field name="LCSC">C64898</field>
+      </fields>
+      <libsource lib="Breeze-rescue" part="Diode-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE566BB</tstamp>
+    </comp>
+    <comp ref="D11">
+      <value>DIODE</value>
+      <footprint>Breeze:SOD-123FL</footprint>
+      <fields>
+        <field name="LCSC">C64898</field>
+      </fields>
+      <libsource lib="Breeze-rescue" part="Diode-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE566C1</tstamp>
+    </comp>
+    <comp ref="DMC4">
+      <value>DIODE</value>
+      <footprint>Breeze:SOD-123FL</footprint>
+      <fields>
+        <field name="LCSC">C64898</field>
+      </fields>
+      <libsource lib="Breeze-rescue" part="Diode-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE566C7</tstamp>
+    </comp>
+    <comp ref="DMC5">
+      <value>DIODE</value>
+      <footprint>Breeze:SOD-123FL</footprint>
+      <fields>
+        <field name="LCSC">C64898</field>
+      </fields>
+      <libsource lib="Breeze-rescue" part="Diode-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE566CD</tstamp>
+    </comp>
+    <comp ref="D12">
+      <value>DIODE</value>
+      <footprint>Breeze:SOD-123FL</footprint>
+      <fields>
+        <field name="LCSC">C64898</field>
+      </fields>
+      <libsource lib="Breeze-rescue" part="Diode-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE566D3</tstamp>
+    </comp>
+    <comp ref="DMC6">
+      <value>DIODE</value>
+      <footprint>Breeze:SOD-123FL</footprint>
+      <fields>
+        <field name="LCSC">C64898</field>
+      </fields>
+      <libsource lib="Breeze-rescue" part="Diode-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE566D9</tstamp>
+    </comp>
+    <comp ref="D13">
+      <value>DIODE</value>
+      <footprint>Breeze:SOD-123FL</footprint>
+      <fields>
+        <field name="LCSC">C64898</field>
+      </fields>
+      <libsource lib="Breeze-rescue" part="Diode-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE59DCD</tstamp>
+    </comp>
+    <comp ref="D14">
+      <value>DIODE</value>
+      <footprint>Breeze:SOD-123FL</footprint>
+      <fields>
+        <field name="LCSC">C64898</field>
+      </fields>
+      <libsource lib="Breeze-rescue" part="Diode-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE59DD3</tstamp>
+    </comp>
+    <comp ref="D15">
+      <value>DIODE</value>
+      <footprint>Breeze:SOD-123FL</footprint>
+      <fields>
+        <field name="LCSC">C64898</field>
+      </fields>
+      <libsource lib="Breeze-rescue" part="Diode-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE59DD9</tstamp>
+    </comp>
+    <comp ref="D16">
+      <value>DIODE</value>
+      <footprint>Breeze:SOD-123FL</footprint>
+      <fields>
+        <field name="LCSC">C64898</field>
+      </fields>
+      <libsource lib="Breeze-rescue" part="Diode-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE59DDF</tstamp>
+    </comp>
+    <comp ref="D17">
+      <value>DIODE</value>
+      <footprint>Breeze:SOD-123FL</footprint>
+      <fields>
+        <field name="LCSC">C64898</field>
+      </fields>
+      <libsource lib="Breeze-rescue" part="Diode-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE59DE5</tstamp>
+    </comp>
+    <comp ref="DUP1">
+      <value>DIODE</value>
+      <footprint>Breeze:SOD-123FL</footprint>
+      <fields>
+        <field name="LCSC">C64898</field>
+      </fields>
+      <libsource lib="Breeze-rescue" part="Diode-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE59DF1</tstamp>
+    </comp>
+    <comp ref="D18">
+      <value>DIODE</value>
+      <footprint>Breeze:SOD-123FL</footprint>
+      <fields>
+        <field name="LCSC">C64898</field>
+      </fields>
+      <libsource lib="Breeze-rescue" part="Diode-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE59DF7</tstamp>
+    </comp>
+    <comp ref="D19">
+      <value>DIODE</value>
+      <footprint>Breeze:SOD-123FL</footprint>
+      <fields>
+        <field name="LCSC">C64898</field>
+      </fields>
+      <libsource lib="Breeze-rescue" part="Diode-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE5E2D2</tstamp>
+    </comp>
+    <comp ref="D20">
+      <value>DIODE</value>
+      <footprint>Breeze:SOD-123FL</footprint>
+      <fields>
+        <field name="LCSC">C64898</field>
+      </fields>
+      <libsource lib="Breeze-rescue" part="Diode-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE5E2D8</tstamp>
+    </comp>
+    <comp ref="D21">
+      <value>DIODE</value>
+      <footprint>Breeze:SOD-123FL</footprint>
+      <fields>
+        <field name="LCSC">C64898</field>
+      </fields>
+      <libsource lib="Breeze-rescue" part="Diode-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE5E2DE</tstamp>
+    </comp>
+    <comp ref="D22">
+      <value>DIODE</value>
+      <footprint>Breeze:SOD-123FL</footprint>
+      <fields>
+        <field name="LCSC">C64898</field>
+      </fields>
+      <libsource lib="Breeze-rescue" part="Diode-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE5E2E4</tstamp>
+    </comp>
+    <comp ref="D23">
+      <value>DIODE</value>
+      <footprint>Breeze:SOD-123FL</footprint>
+      <fields>
+        <field name="LCSC">C64898</field>
+      </fields>
+      <libsource lib="Breeze-rescue" part="Diode-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE5E2EA</tstamp>
+    </comp>
+    <comp ref="DALF1">
+      <value>DIODE</value>
+      <footprint>Breeze:SOD-123FL</footprint>
+      <fields>
+        <field name="LCSC">C64898</field>
+      </fields>
+      <libsource lib="Breeze-rescue" part="Diode-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE5E2F0</tstamp>
+    </comp>
+    <comp ref="DAN1">
+      <value>DIODE</value>
+      <footprint>Breeze:SOD-123FL</footprint>
+      <fields>
+        <field name="LCSC">C64898</field>
+      </fields>
+      <libsource lib="Breeze-rescue" part="Diode-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE5E2F6</tstamp>
+    </comp>
+    <comp ref="D24">
+      <value>DIODE</value>
+      <footprint>Breeze:SOD-123FL</footprint>
+      <fields>
+        <field name="LCSC">C64898</field>
+      </fields>
+      <libsource lib="Breeze-rescue" part="Diode-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE5E2FC</tstamp>
+    </comp>
+    <comp ref="DRT1">
+      <value>DIODE</value>
+      <footprint>Breeze:SOD-123FL</footprint>
+      <fields>
+        <field name="LCSC">C64898</field>
+      </fields>
+      <libsource lib="Breeze-rescue" part="Diode-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE5E302</tstamp>
+    </comp>
+    <comp ref="DTC1">
+      <value>DIODE</value>
+      <footprint>Breeze:SOD-123FL</footprint>
+      <fields>
+        <field name="LCSC">C64898</field>
+      </fields>
+      <libsource lib="Breeze-rescue" part="Diode-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE63C40</tstamp>
+    </comp>
+    <comp ref="DTC2">
+      <value>DIODE</value>
+      <footprint>Breeze:SOD-123FL</footprint>
+      <fields>
+        <field name="LCSC">C64898</field>
+      </fields>
+      <libsource lib="Breeze-rescue" part="Diode-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE63C46</tstamp>
+    </comp>
+    <comp ref="DTC3">
+      <value>DIODE</value>
+      <footprint>Breeze:SOD-123FL</footprint>
+      <fields>
+        <field name="LCSC">C64898</field>
+      </fields>
+      <libsource lib="Breeze-rescue" part="Diode-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE63C4C</tstamp>
+    </comp>
+    <comp ref="DTC4">
+      <value>DIODE</value>
+      <footprint>Breeze:SOD-123FL</footprint>
+      <fields>
+        <field name="LCSC">C64898</field>
+      </fields>
+      <libsource lib="Breeze-rescue" part="Diode-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE63C52</tstamp>
+    </comp>
+    <comp ref="MCU-MAIN1">
+      <value>PRO-MICRO</value>
+      <footprint>Breeze:ProMicro</footprint>
+      <libsource lib="Breeze-rescue" part="ProMicro-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE03613</tstamp>
+    </comp>
+    <comp ref="MCU-MACRO1">
+      <value>ProMicro-Partial</value>
+      <footprint>Breeze:PROMICRO-PARTIAL2</footprint>
+      <libsource lib="Breeze-rescue" part="ProMicro-Partial2-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE39932</tstamp>
+    </comp>
+    <comp ref="H7">
+      <value>M3-HOLE</value>
+      <footprint>Breeze:M3-HOLE</footprint>
+      <libsource lib="Breeze-rescue" part="3M-HOLE-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE833B9</tstamp>
+    </comp>
+    <comp ref="H8">
+      <value>M3-HOLE</value>
+      <footprint>Breeze:M3-HOLE</footprint>
+      <libsource lib="Breeze-rescue" part="3M-HOLE-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FEAE6B2</tstamp>
+    </comp>
+    <comp ref="H4">
+      <value>M3-HOLE</value>
+      <footprint>Breeze:M3-HOLE</footprint>
+      <libsource lib="Breeze-rescue" part="3M-HOLE-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FEB0078</tstamp>
+    </comp>
+    <comp ref="H5">
+      <value>M3-HOLE</value>
+      <footprint>Breeze:M3-HOLE</footprint>
+      <libsource lib="Breeze-rescue" part="3M-HOLE-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FEB61DA</tstamp>
+    </comp>
+    <comp ref="H1">
+      <value>M3-HOLE</value>
+      <footprint>Breeze:M3-HOLE</footprint>
+      <libsource lib="Breeze-rescue" part="3M-HOLE-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FEBC36F</tstamp>
+    </comp>
+    <comp ref="H3">
+      <value>M3-HOLE</value>
+      <footprint>Breeze:M3-HOLE</footprint>
+      <libsource lib="Breeze-rescue" part="3M-HOLE-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FEC89B8</tstamp>
+    </comp>
+    <comp ref="H6">
+      <value>M3-HOLE</value>
+      <footprint>Breeze:M3-HOLE</footprint>
+      <libsource lib="Breeze-rescue" part="3M-HOLE-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FECEC08</tstamp>
+    </comp>
+    <comp ref="STABL1">
+      <value>MX-STABILIZER-2U</value>
+      <footprint>Breeze:Stabilizer_MX_2u</footprint>
+      <libsource lib="Breeze-rescue" part="MX-STABILIZER-2U-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FF43E22</tstamp>
+    </comp>
+    <comp ref="H9">
+      <value>M3-HOLE</value>
+      <footprint>Breeze:M3-HOLE</footprint>
+      <libsource lib="Breeze-rescue" part="3M-HOLE-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FF4C03B</tstamp>
+    </comp>
+    <comp ref="RSW1">
+      <value>SW-RST</value>
+      <footprint>Breeze:TACT_SWITCH_TVBP06</footprint>
+      <libsource lib="Breeze-rescue" part="SW_RST-Lily58-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE10E25</tstamp>
+    </comp>
+    <comp ref="H10">
+      <value>2M-HOLE</value>
+      <footprint>Breeze:M2-HOLE</footprint>
+      <libsource lib="Breeze-rescue" part="2M-HOLE-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60012317</tstamp>
+    </comp>
+    <comp ref="H12">
+      <value>2M-HOLE</value>
+      <footprint>Breeze:M2-HOLE</footprint>
+      <libsource lib="Breeze-rescue" part="2M-HOLE-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60018F1D</tstamp>
+    </comp>
+    <comp ref="H14">
+      <value>2M-HOLE</value>
+      <footprint>Breeze:M2-HOLE</footprint>
+      <libsource lib="Breeze-rescue" part="2M-HOLE-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60019E55</tstamp>
+    </comp>
+    <comp ref="H11">
+      <value>2M-HOLE</value>
+      <footprint>Breeze:M2-HOLE</footprint>
+      <libsource lib="Breeze-rescue" part="2M-HOLE-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6001AC01</tstamp>
+    </comp>
+    <comp ref="H13">
+      <value>2M-HOLE</value>
+      <footprint>Breeze:M2-HOLE</footprint>
+      <libsource lib="Breeze-rescue" part="2M-HOLE-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6001B953</tstamp>
+    </comp>
+    <comp ref="H15">
+      <value>2M-HOLE</value>
+      <footprint>Breeze:M2-HOLE</footprint>
+      <libsource lib="Breeze-rescue" part="2M-HOLE-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6001C706</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>DIODE</value>
+      <footprint>Breeze:SOD-123FL</footprint>
+      <fields>
+        <field name="LCSC">C64898</field>
+      </fields>
+      <libsource lib="Breeze-rescue" part="Diode-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE3DA83</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>PJ-320A</value>
+      <footprint>Breeze:MJ-4PP-9</footprint>
+      <libsource lib="Breeze-rescue" part="MJ-4PP-9-Lily58-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE04DDC</tstamp>
+    </comp>
+    <comp ref="H16">
+      <value>M3-HOLE</value>
+      <footprint>Breeze:M3-HOLE</footprint>
+      <libsource lib="Breeze-rescue" part="3M-HOLE-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>600712A7</tstamp>
+    </comp>
+    <comp ref="H17">
+      <value>M3-HOLE</value>
+      <footprint>Breeze:M3-HOLE</footprint>
+      <libsource lib="Breeze-rescue" part="3M-HOLE-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60074960</tstamp>
+    </comp>
+    <comp ref="H2">
+      <value>M3-HOLE</value>
+      <footprint>Breeze:M3-HOLE</footprint>
+      <libsource lib="Breeze-rescue" part="3M-HOLE-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6021FC04</tstamp>
+    </comp>
+    <comp ref="H18">
+      <value>M3-HOLE</value>
+      <footprint>Breeze:M3-HOLE</footprint>
+      <libsource lib="Breeze-rescue" part="3M-HOLE-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6022023F</tstamp>
+    </comp>
+    <comp ref="H19">
+      <value>M3-HOLE</value>
+      <footprint>Breeze:M3-HOLE</footprint>
+      <libsource lib="Breeze-rescue" part="3M-HOLE-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6022F92A</tstamp>
+    </comp>
+    <comp ref="LGO1">
+      <value>Logo</value>
+      <footprint>Breeze:logo</footprint>
+      <libsource lib="Breeze-rescue" part="Logo-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6004AFDE</tstamp>
+    </comp>
+    <comp ref="RSW-MACRO1">
+      <value>SW-RST</value>
+      <footprint>Breeze:TACT_SWITCH_TVBP06</footprint>
+      <libsource lib="Breeze-rescue" part="SW_RST-Lily58-cache-Merkaba_Rev0-rescue-Breeze-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE4F983</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Breeze-rescue" part="2M-HOLE-Breeze-rescue">
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">2M-HOLE-Breeze-rescue</field>
+      </fields>
+    </libpart>
+    <libpart lib="Breeze-rescue" part="3M-HOLE-Merkaba_Rev0-rescue-Breeze-rescue">
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">3M-HOLE-Merkaba_Rev0-rescue-Breeze-rescue</field>
+      </fields>
+    </libpart>
+    <libpart lib="Breeze-rescue" part="CHOCXHSPCB-1U-cache-Merkaba_Rev0-rescue-Breeze-rescue">
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">CHOCXHSPCB-1U-cache-Merkaba_Rev0-rescue-Breeze-rescue</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Breeze-rescue" part="Diode-cache-Merkaba_Rev0-rescue-Breeze-rescue">
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">Diode-cache-Merkaba_Rev0-rescue-Breeze-rescue</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Breeze-rescue" part="Logo-Breeze-rescue">
+      <fields>
+        <field name="Reference">LGO</field>
+        <field name="Value">Logo-Breeze-rescue</field>
+      </fields>
+    </libpart>
+    <libpart lib="Breeze-rescue" part="MJ-4PP-9-Lily58-cache-Merkaba_Rev0-rescue-Breeze-rescue">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">MJ-4PP-9-Lily58-cache-Merkaba_Rev0-rescue-Breeze-rescue</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+        <pin num="3" name="~" type="passive"/>
+        <pin num="4" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Breeze-rescue" part="MX-STABILIZER-2U-Merkaba_Rev0-rescue-Breeze-rescue">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MX-STABILIZER-2U-Merkaba_Rev0-rescue-Breeze-rescue</field>
+      </fields>
+    </libpart>
+    <libpart lib="Breeze-rescue" part="ProMicro-Merkaba_Rev0-rescue-Breeze-rescue">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ProMicro-Merkaba_Rev0-rescue-Breeze-rescue</field>
+      </fields>
+      <pins>
+        <pin num="1" name="TX(PD3)" type="input"/>
+        <pin num="2" name="RX(PD2)" type="input"/>
+        <pin num="3" name="GND" type="input"/>
+        <pin num="4" name="GND" type="input"/>
+        <pin num="5" name="SDA(PD1)" type="input"/>
+        <pin num="6" name="SCL(PD0)" type="input"/>
+        <pin num="7" name="D4(PD4)" type="input"/>
+        <pin num="8" name="D5(PC6)" type="input"/>
+        <pin num="9" name="D6(PD7)" type="input"/>
+        <pin num="10" name="D7(PE6)" type="input"/>
+        <pin num="11" name="D8(PB4)" type="input"/>
+        <pin num="12" name="D9(PB5)" type="input"/>
+        <pin num="13" name="D10(PB6)" type="input"/>
+        <pin num="14" name="D16(PB2)" type="input"/>
+        <pin num="15.1" name="fD14(PB3)" type="input"/>
+        <pin num="15.2" name="bD14(PB3)" type="input"/>
+        <pin num="16" name="D15(PB1)" type="input"/>
+        <pin num="17" name="A0(PF7)" type="input"/>
+        <pin num="18" name="A1(PF6)" type="input"/>
+        <pin num="19" name="A2(PF5)" type="input"/>
+        <pin num="20" name="A3(PF4)" type="input"/>
+        <pin num="21" name="VCC" type="input"/>
+        <pin num="22" name="RST" type="input"/>
+        <pin num="23" name="GND" type="input"/>
+        <pin num="24" name="RAW" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Breeze-rescue" part="ProMicro-Partial2-Merkaba_Rev0-rescue-Breeze-rescue">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ProMicro-Partial2-Merkaba_Rev0-rescue-Breeze-rescue</field>
+      </fields>
+      <pins>
+        <pin num="1" name="TX(PD3)" type="input"/>
+        <pin num="2" name="RX(PD2)" type="input"/>
+        <pin num="3" name="GND" type="input"/>
+        <pin num="4" name="GND" type="input"/>
+        <pin num="5" name="SDA(PD1)" type="input"/>
+        <pin num="6" name="SCL(PD0)" type="input"/>
+        <pin num="7" name="RAW" type="input"/>
+        <pin num="8" name="GND" type="input"/>
+        <pin num="9" name="RST" type="input"/>
+        <pin num="10" name="VCC" type="input"/>
+        <pin num="11" name="A3(PF4)" type="input"/>
+        <pin num="12" name="A2(PF5)" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Breeze-rescue" part="SW_RST-Lily58-cache-Merkaba_Rev0-rescue-Breeze-rescue">
+      <fields>
+        <field name="Reference">RSW</field>
+        <field name="Value">SW_RST-Lily58-cache-Merkaba_Rev0-rescue-Breeze-rescue</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Breeze-rescue">
+      <uri>/Users/eithan/Projects/Afternoon Labs/CAD/PCB/Breeze/Breeze-rescue.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="GND">
+      <node ref="MCU-MAIN1" pin="23"/>
+      <node ref="MCU-MAIN1" pin="3"/>
+      <node ref="MCU-MAIN1" pin="4"/>
+      <node ref="RSW-MACRO1" pin="2"/>
+      <node ref="MCU-MAIN1" pin="15.1"/>
+      <node ref="MCU-MACRO1" pin="3"/>
+      <node ref="MCU-MACRO1" pin="4"/>
+      <node ref="J1" pin="4"/>
+      <node ref="MCU-MACRO1" pin="8"/>
+      <node ref="J1" pin="2"/>
+      <node ref="RSW1" pin="1"/>
+    </net>
+    <net code="2" name="VCC">
+      <node ref="MCU-MAIN1" pin="21"/>
+      <node ref="MCU-MAIN1" pin="15.2"/>
+      <node ref="J1" pin="1"/>
+    </net>
+    <net code="3" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2"/>
+      <node ref="SW2" pin="1"/>
+    </net>
+    <net code="4" name="COL1">
+      <node ref="SW14" pin="2"/>
+      <node ref="TC2" pin="2"/>
+      <node ref="SW8" pin="2"/>
+      <node ref="MCU-MAIN1" pin="5"/>
+      <node ref="SW2" pin="2"/>
+      <node ref="SW20" pin="2"/>
+    </net>
+    <net code="5" name="COL2">
+      <node ref="SW21" pin="2"/>
+      <node ref="TC3" pin="2"/>
+      <node ref="SW9" pin="2"/>
+      <node ref="MCU-MAIN1" pin="6"/>
+      <node ref="SW3" pin="2"/>
+      <node ref="SW15" pin="2"/>
+    </net>
+    <net code="6" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2"/>
+      <node ref="SW1" pin="1"/>
+    </net>
+    <net code="7" name="Net-(D3-Pad2)">
+      <node ref="SW3" pin="1"/>
+      <node ref="D3" pin="2"/>
+    </net>
+    <net code="8" name="Net-(D4-Pad2)">
+      <node ref="SW4" pin="1"/>
+      <node ref="D4" pin="2"/>
+    </net>
+    <net code="9" name="Net-(D5-Pad2)">
+      <node ref="SW5" pin="1"/>
+      <node ref="D5" pin="2"/>
+    </net>
+    <net code="10" name="Net-(DMC1-Pad2)">
+      <node ref="MC1" pin="1"/>
+      <node ref="DMC1" pin="2"/>
+    </net>
+    <net code="11" name="Net-(DMC2-Pad2)">
+      <node ref="DMC2" pin="2"/>
+      <node ref="MC2" pin="1"/>
+    </net>
+    <net code="12" name="Net-(D6-Pad2)">
+      <node ref="D6" pin="2"/>
+      <node ref="SW6" pin="1"/>
+    </net>
+    <net code="13" name="Net-(DMC3-Pad2)">
+      <node ref="DMC3" pin="2"/>
+      <node ref="MC3" pin="1"/>
+    </net>
+    <net code="14" name="Net-(D7-Pad2)">
+      <node ref="D7" pin="2"/>
+      <node ref="SW7" pin="1"/>
+    </net>
+    <net code="15" name="Net-(D8-Pad2)">
+      <node ref="D8" pin="2"/>
+      <node ref="SW8" pin="1"/>
+    </net>
+    <net code="16" name="Net-(D9-Pad2)">
+      <node ref="D9" pin="2"/>
+      <node ref="SW9" pin="1"/>
+    </net>
+    <net code="17" name="Net-(D10-Pad2)">
+      <node ref="D10" pin="2"/>
+      <node ref="SW10" pin="1"/>
+    </net>
+    <net code="18" name="Net-(D11-Pad2)">
+      <node ref="SW11" pin="1"/>
+      <node ref="D11" pin="2"/>
+    </net>
+    <net code="19" name="Net-(DMC4-Pad2)">
+      <node ref="DMC4" pin="2"/>
+      <node ref="MC4" pin="1"/>
+    </net>
+    <net code="20" name="Net-(DMC5-Pad2)">
+      <node ref="DMC5" pin="2"/>
+      <node ref="MC5" pin="1"/>
+    </net>
+    <net code="21" name="Net-(D12-Pad2)">
+      <node ref="D12" pin="2"/>
+      <node ref="SW12" pin="1"/>
+    </net>
+    <net code="22" name="ROW1">
+      <node ref="D12" pin="1"/>
+      <node ref="DMC6" pin="1"/>
+      <node ref="DMC5" pin="1"/>
+      <node ref="DMC4" pin="1"/>
+      <node ref="D11" pin="1"/>
+      <node ref="D10" pin="1"/>
+      <node ref="D9" pin="1"/>
+      <node ref="D8" pin="1"/>
+      <node ref="D7" pin="1"/>
+      <node ref="MCU-MAIN1" pin="19"/>
+      <node ref="MCU-MACRO1" pin="11"/>
+    </net>
+    <net code="23" name="Net-(DMC6-Pad2)">
+      <node ref="MC6" pin="1"/>
+      <node ref="DMC6" pin="2"/>
+    </net>
+    <net code="24" name="Net-(D13-Pad2)">
+      <node ref="D13" pin="2"/>
+      <node ref="SW13" pin="1"/>
+    </net>
+    <net code="25" name="Net-(D14-Pad2)">
+      <node ref="SW14" pin="1"/>
+      <node ref="D14" pin="2"/>
+    </net>
+    <net code="26" name="Net-(D15-Pad2)">
+      <node ref="SW15" pin="1"/>
+      <node ref="D15" pin="2"/>
+    </net>
+    <net code="27" name="Net-(D16-Pad2)">
+      <node ref="SW16" pin="1"/>
+      <node ref="D16" pin="2"/>
+    </net>
+    <net code="28" name="Net-(D17-Pad2)">
+      <node ref="SW17" pin="1"/>
+      <node ref="D17" pin="2"/>
+    </net>
+    <net code="29" name="Net-(DUP1-Pad2)">
+      <node ref="UP1" pin="1"/>
+      <node ref="DUP1" pin="2"/>
+    </net>
+    <net code="30" name="ROW2">
+      <node ref="D15" pin="1"/>
+      <node ref="D18" pin="1"/>
+      <node ref="DUP1" pin="1"/>
+      <node ref="MCU-MAIN1" pin="18"/>
+      <node ref="D13" pin="1"/>
+      <node ref="D14" pin="1"/>
+      <node ref="D16" pin="1"/>
+      <node ref="D17" pin="1"/>
+    </net>
+    <net code="31" name="Net-(D18-Pad2)">
+      <node ref="D18" pin="2"/>
+      <node ref="SW18" pin="1"/>
+    </net>
+    <net code="32" name="Net-(D19-Pad2)">
+      <node ref="D19" pin="2"/>
+      <node ref="SW19" pin="1"/>
+    </net>
+    <net code="33" name="Net-(D20-Pad2)">
+      <node ref="D20" pin="2"/>
+      <node ref="SW20" pin="1"/>
+    </net>
+    <net code="34" name="Net-(D21-Pad2)">
+      <node ref="D21" pin="2"/>
+      <node ref="SW21" pin="1"/>
+    </net>
+    <net code="35" name="Net-(D22-Pad2)">
+      <node ref="D22" pin="2"/>
+      <node ref="SW22" pin="1"/>
+    </net>
+    <net code="36" name="Net-(D23-Pad2)">
+      <node ref="D23" pin="2"/>
+      <node ref="SW23" pin="1"/>
+    </net>
+    <net code="37" name="Net-(DALF1-Pad2)">
+      <node ref="LEFT1" pin="1"/>
+      <node ref="DALF1" pin="2"/>
+    </net>
+    <net code="38" name="Net-(DAN1-Pad2)">
+      <node ref="DOWN1" pin="1"/>
+      <node ref="DAN1" pin="2"/>
+    </net>
+    <net code="39" name="Net-(D24-Pad2)">
+      <node ref="SW24" pin="1"/>
+      <node ref="D24" pin="2"/>
+    </net>
+    <net code="40" name="ROW3">
+      <node ref="D24" pin="1"/>
+      <node ref="DRT1" pin="1"/>
+      <node ref="DAN1" pin="1"/>
+      <node ref="D22" pin="1"/>
+      <node ref="DALF1" pin="1"/>
+      <node ref="D23" pin="1"/>
+      <node ref="D21" pin="1"/>
+      <node ref="D20" pin="1"/>
+      <node ref="D19" pin="1"/>
+      <node ref="MCU-MACRO1" pin="6"/>
+      <node ref="MCU-MAIN1" pin="17"/>
+    </net>
+    <net code="41" name="Net-(DRT1-Pad2)">
+      <node ref="RIGHT1" pin="1"/>
+      <node ref="DRT1" pin="2"/>
+    </net>
+    <net code="42" name="Net-(DTC1-Pad2)">
+      <node ref="TC1" pin="1"/>
+      <node ref="DTC1" pin="2"/>
+    </net>
+    <net code="43" name="Net-(DTC2-Pad2)">
+      <node ref="DTC2" pin="2"/>
+      <node ref="TC2" pin="1"/>
+    </net>
+    <net code="44" name="Net-(DTC3-Pad2)">
+      <node ref="TC3" pin="1"/>
+      <node ref="DTC3" pin="2"/>
+    </net>
+    <net code="45" name="ROW4">
+      <node ref="DTC3" pin="1"/>
+      <node ref="MCU-MAIN1" pin="16"/>
+      <node ref="DTC4" pin="1"/>
+      <node ref="DTC2" pin="1"/>
+      <node ref="DTC1" pin="1"/>
+    </net>
+    <net code="46" name="Net-(DTC4-Pad2)">
+      <node ref="TC4" pin="1"/>
+      <node ref="DTC4" pin="2"/>
+    </net>
+    <net code="47" name="COL8">
+      <node ref="MCU-MAIN1" pin="12"/>
+      <node ref="MC3" pin="2"/>
+      <node ref="MC6" pin="2"/>
+      <node ref="RIGHT1" pin="2"/>
+      <node ref="MCU-MACRO1" pin="1"/>
+    </net>
+    <net code="48" name="COL7">
+      <node ref="MCU-MAIN1" pin="11"/>
+      <node ref="MC5" pin="2"/>
+      <node ref="MC2" pin="2"/>
+      <node ref="MCU-MACRO1" pin="2"/>
+      <node ref="DOWN1" pin="2"/>
+      <node ref="UP1" pin="2"/>
+    </net>
+    <net code="49" name="COL6">
+      <node ref="MCU-MAIN1" pin="10"/>
+      <node ref="MC4" pin="2"/>
+      <node ref="MC1" pin="2"/>
+      <node ref="LEFT1" pin="2"/>
+      <node ref="MCU-MACRO1" pin="5"/>
+    </net>
+    <net code="50" name="COL5">
+      <node ref="MCU-MAIN1" pin="9"/>
+      <node ref="SW12" pin="2"/>
+      <node ref="SW6" pin="2"/>
+      <node ref="SW24" pin="2"/>
+      <node ref="SW18" pin="2"/>
+    </net>
+    <net code="51" name="COL4">
+      <node ref="SW11" pin="2"/>
+      <node ref="SW17" pin="2"/>
+      <node ref="MCU-MAIN1" pin="8"/>
+      <node ref="SW5" pin="2"/>
+      <node ref="SW23" pin="2"/>
+    </net>
+    <net code="52" name="COL3">
+      <node ref="SW4" pin="2"/>
+      <node ref="SW10" pin="2"/>
+      <node ref="TC4" pin="2"/>
+      <node ref="SW16" pin="2"/>
+      <node ref="SW22" pin="2"/>
+      <node ref="MCU-MAIN1" pin="7"/>
+    </net>
+    <net code="53" name="COL0">
+      <node ref="SW1" pin="2"/>
+      <node ref="MCU-MAIN1" pin="14"/>
+      <node ref="TC1" pin="2"/>
+      <node ref="SW13" pin="2"/>
+      <node ref="SW7" pin="2"/>
+      <node ref="SW19" pin="2"/>
+    </net>
+    <net code="54" name="ROW0">
+      <node ref="DMC3" pin="1"/>
+      <node ref="D6" pin="1"/>
+      <node ref="MCU-MACRO1" pin="12"/>
+      <node ref="DMC2" pin="1"/>
+      <node ref="D3" pin="1"/>
+      <node ref="DMC1" pin="1"/>
+      <node ref="MCU-MAIN1" pin="20"/>
+      <node ref="D5" pin="1"/>
+      <node ref="D2" pin="1"/>
+      <node ref="D4" pin="1"/>
+      <node ref="D1" pin="1"/>
+    </net>
+    <net code="55" name="Net-(MCU-MAIN1-Pad1)">
+      <node ref="MCU-MAIN1" pin="1"/>
+    </net>
+    <net code="56" name="Net-(MCU-MAIN1-Pad13)">
+      <node ref="MCU-MAIN1" pin="13"/>
+    </net>
+    <net code="57" name="DATA">
+      <node ref="MCU-MAIN1" pin="2"/>
+      <node ref="J1" pin="3"/>
+    </net>
+    <net code="58" name="RST">
+      <node ref="RSW1" pin="2"/>
+      <node ref="MCU-MAIN1" pin="22"/>
+    </net>
+    <net code="59" name="Net-(MCU-MAIN1-Pad24)">
+      <node ref="MCU-MAIN1" pin="24"/>
+    </net>
+    <net code="60" name="Net-(MCU-MACRO1-Pad9)">
+      <node ref="MCU-MACRO1" pin="9"/>
+      <node ref="RSW-MACRO1" pin="1"/>
+    </net>
+    <net code="61" name="Net-(MCU-MACRO1-Pad10)">
+      <node ref="MCU-MACRO1" pin="10"/>
+    </net>
+    <net code="62" name="Net-(MCU-MACRO1-Pad7)">
+      <node ref="MCU-MACRO1" pin="7"/>
+    </net>
+  </nets>
+</export>
