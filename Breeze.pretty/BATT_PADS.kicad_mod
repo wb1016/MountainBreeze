@@ -1,7 +1,7 @@
 (footprint "BATT_PADS"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
 		(at 0 -6 0)
@@ -21,19 +21,6 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "a64a7623-4b9f-4d75-8c1b-493117ec6764")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "b9174978-c5bd-4b64-8f5a-3adf1a9febae")
 		(effects
 			(font
 				(size 1 1)
@@ -67,33 +54,7 @@
 			)
 		)
 	)
-	(attr smd)
-	(fp_text user "BAT+"
-		(at 2.5 2.5 0)
-		(unlocked yes)
-		(layer "B.SilkS")
-		(uuid "5e70703c-b05a-4b80-bebc-4555a69d65cc")
-		(effects
-			(font
-				(size 0.5 0.5)
-				(thickness 0.1)
-			)
-			(justify left bottom mirror)
-		)
-	)
-	(fp_text user "GND"
-		(at -1 2.5 0)
-		(unlocked yes)
-		(layer "B.SilkS")
-		(uuid "94e24986-3f27-4081-b0bb-8576885e74fe")
-		(effects
-			(font
-				(size 0.5 0.5)
-				(thickness 0.1)
-			)
-			(justify left bottom mirror)
-		)
-	)
+	(attr through_hole)
 	(fp_text user "GND"
 		(at -2.5 2.5 0)
 		(unlocked yes)
@@ -118,6 +79,32 @@
 				(thickness 0.1)
 			)
 			(justify left bottom)
+		)
+	)
+	(fp_text user "BAT+"
+		(at 2.5 2.5 0)
+		(unlocked yes)
+		(layer "B.SilkS")
+		(uuid "5e70703c-b05a-4b80-bebc-4555a69d65cc")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(fp_text user "GND"
+		(at -1 2.5 0)
+		(unlocked yes)
+		(layer "B.SilkS")
+		(uuid "94e24986-3f27-4081-b0bb-8576885e74fe")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
 		)
 	)
 	(fp_text user "${REFERENCE}"
@@ -150,4 +137,5 @@
 		(thermal_bridge_angle 45)
 		(uuid "d51160e5-7241-47c0-a25d-45bccb3de8eb")
 	)
+	(embedded_fonts no)
 )
