@@ -67,7 +67,7 @@
 	)
 	(fp_rect
 		(start -2.54 -16.51)
-		(end 2.54 -12.7)
+		(end 2.54 -14.2)
 		(stroke
 			(width 0.1)
 			(type default)
