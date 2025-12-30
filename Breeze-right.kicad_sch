@@ -7947,7 +7947,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005fe2fd42")
-		(property "Reference" "UPXS1"
+		(property "Reference" "XS25"
 			(at 254 80.137 0)
 			(effects
 				(font
@@ -8007,7 +8007,7 @@
 		(instances
 			(project "Breeze-right"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "UPXS1")
+					(reference "XS25")
 					(unit 1)
 				)
 			)
@@ -8022,7 +8022,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005fe328ab")
-		(property "Reference" "XS25"
+		(property "Reference" "XS26"
 			(at 120.65 106.807 0)
 			(effects
 				(font
@@ -8082,7 +8082,7 @@
 		(instances
 			(project "Breeze-right"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "XS25")
+					(reference "XS26")
 					(unit 1)
 				)
 			)
@@ -8097,7 +8097,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005fe328b1")
-		(property "Reference" "XS26"
+		(property "Reference" "XS27"
 			(at 139.7 106.807 0)
 			(effects
 				(font
@@ -8157,7 +8157,7 @@
 		(instances
 			(project "Breeze-right"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "XS26")
+					(reference "XS27")
 					(unit 1)
 				)
 			)
@@ -8172,7 +8172,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005fe328b7")
-		(property "Reference" "XS27"
+		(property "Reference" "XS28"
 			(at 158.75 106.807 0)
 			(effects
 				(font
@@ -8232,7 +8232,7 @@
 		(instances
 			(project "Breeze-right"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "XS27")
+					(reference "XS28")
 					(unit 1)
 				)
 			)
@@ -8247,7 +8247,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005fe328bd")
-		(property "Reference" "XS28"
+		(property "Reference" "XS29"
 			(at 177.8 106.807 0)
 			(effects
 				(font
@@ -8307,7 +8307,7 @@
 		(instances
 			(project "Breeze-right"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "XS28")
+					(reference "XS29")
 					(unit 1)
 				)
 			)
@@ -8322,7 +8322,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005fe328c3")
-		(property "Reference" "XS29"
+		(property "Reference" "XS30"
 			(at 196.85 106.807 0)
 			(effects
 				(font
@@ -8382,7 +8382,7 @@
 		(instances
 			(project "Breeze-right"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "XS29")
+					(reference "XS30")
 					(unit 1)
 				)
 			)
@@ -8397,7 +8397,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005fe328c9")
-		(property "Reference" "XS30"
+		(property "Reference" "XS31"
 			(at 215.9 106.807 0)
 			(effects
 				(font
@@ -8457,7 +8457,7 @@
 		(instances
 			(project "Breeze-right"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "XS30")
+					(reference "XS31")
 					(unit 1)
 				)
 			)
@@ -8472,7 +8472,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005fe328cf")
-		(property "Reference" "XS31"
+		(property "Reference" "XS32"
 			(at 234.95 106.807 0)
 			(effects
 				(font
@@ -8532,7 +8532,7 @@
 		(instances
 			(project "Breeze-right"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "XS31")
+					(reference "XS32")
 					(unit 1)
 				)
 			)
@@ -8547,7 +8547,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005fe328d5")
-		(property "Reference" "XS32"
+		(property "Reference" "XS33"
 			(at 254 106.807 0)
 			(effects
 				(font
@@ -8607,7 +8607,7 @@
 		(instances
 			(project "Breeze-right"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "XS32")
+					(reference "XS33")
 					(unit 1)
 				)
 			)
@@ -8622,7 +8622,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005fe328db")
-		(property "Reference" "XS33"
+		(property "Reference" "XS34"
 			(at 273.05 106.807 0)
 			(effects
 				(font
@@ -8682,7 +8682,7 @@
 		(instances
 			(project "Breeze-right"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "XS33")
+					(reference "XS34")
 					(unit 1)
 				)
 			)
@@ -8697,7 +8697,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005fe366e5")
-		(property "Reference" "XS34"
+		(property "Reference" "XS35"
 			(at 120.65 130.937 0)
 			(effects
 				(font
@@ -8757,7 +8757,7 @@
 		(instances
 			(project "Breeze-right"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "XS34")
+					(reference "XS35")
 					(unit 1)
 				)
 			)
@@ -8772,7 +8772,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005fe366eb")
-		(property "Reference" "XS35"
+		(property "Reference" "XS36"
 			(at 139.7 130.937 0)
 			(effects
 				(font
@@ -8832,7 +8832,7 @@
 		(instances
 			(project "Breeze-right"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "XS35")
+					(reference "XS36")
 					(unit 1)
 				)
 			)
@@ -8847,7 +8847,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005fe366f1")
-		(property "Reference" "XS36"
+		(property "Reference" "XS37"
 			(at 158.75 130.937 0)
 			(effects
 				(font
@@ -8907,7 +8907,7 @@
 		(instances
 			(project "Breeze-right"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "XS36")
+					(reference "XS37")
 					(unit 1)
 				)
 			)
@@ -8922,7 +8922,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005fe366f7")
-		(property "Reference" "XS37"
+		(property "Reference" "XS38"
 			(at 177.8 130.937 0)
 			(effects
 				(font
@@ -8982,7 +8982,7 @@
 		(instances
 			(project "Breeze-right"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "XS37")
+					(reference "XS38")
 					(unit 1)
 				)
 			)

@@ -2408,7 +2408,7 @@
 		(layer "B.Cu")
 		(uuid "00000000-0000-0000-0000-00005fe11f33")
 		(at 284.598 167.74 180)
-		(property "Reference" "XS32"
+		(property "Reference" "XS33"
 			(at -4 -2 0)
 			(layer "B.SilkS")
 			(uuid "12a4c0d9-79c2-4336-812c-ac0f3ebc6b3d")
@@ -3091,7 +3091,7 @@
 		(layer "B.Cu")
 		(uuid "00000000-0000-0000-0000-00005fe11f7e")
 		(at 265.548 167.74 180)
-		(property "Reference" "XS31"
+		(property "Reference" "XS32"
 			(at -4 -2 0)
 			(layer "B.SilkS")
 			(uuid "88b5e9f8-db95-4996-98d4-cb1d8d3feebd")
@@ -3774,7 +3774,7 @@
 		(layer "B.Cu")
 		(uuid "00000000-0000-0000-0000-00005fe11fc9")
 		(at 303.648 167.74 180)
-		(property "Reference" "XS33"
+		(property "Reference" "XS34"
 			(at -4 -2 0)
 			(layer "B.SilkS")
 			(uuid "ad3c4cb3-08d0-46ba-ac3a-1b6b6a011cec")
@@ -4457,7 +4457,7 @@
 		(layer "B.Cu")
 		(uuid "00000000-0000-0000-0000-00005fe12014")
 		(at 284.598 148.69 180)
-		(property "Reference" "UPXS1"
+		(property "Reference" "XS25"
 			(at -4 -2 0)
 			(layer "B.SilkS")
 			(uuid "2ad86256-7712-405c-bdda-b5027e3cbcc1")
@@ -30994,7 +30994,7 @@
 		(layer "B.Cu")
 		(uuid "00000000-0000-0000-0000-00005fe12afd")
 		(at 146.34 165.356 180)
-		(property "Reference" "XS25"
+		(property "Reference" "XS26"
 			(at -4 -2 0)
 			(layer "B.SilkS")
 			(uuid "f3bc851a-6c50-4914-bdfa-e6db20af2eb9")
@@ -31677,7 +31677,7 @@
 		(layer "B.Cu")
 		(uuid "00000000-0000-0000-0000-00005fe12b48")
 		(at 165.39 162.975 180)
-		(property "Reference" "XS26"
+		(property "Reference" "XS27"
 			(at -4 -2 0)
 			(layer "B.SilkS")
 			(uuid "ffa889e0-6a8b-4a4b-8385-95bb075a2ca6")
@@ -32360,7 +32360,7 @@
 		(layer "B.Cu")
 		(uuid "00000000-0000-0000-0000-00005fe12b93")
 		(at 184.44 160.59 180)
-		(property "Reference" "XS27"
+		(property "Reference" "XS28"
 			(at -4 -2 0)
 			(layer "B.SilkS")
 			(uuid "4c367a84-4f76-402e-8da5-3f7d366f8f63")
@@ -33043,7 +33043,7 @@
 		(layer "B.Cu")
 		(uuid "00000000-0000-0000-0000-00005fe12bde")
 		(at 203.49 162.975 180)
-		(property "Reference" "XS28"
+		(property "Reference" "XS29"
 			(at -4 -2 0)
 			(layer "B.SilkS")
 			(uuid "56d4e857-fbb5-4654-b856-cdfc01a958a2")
@@ -33726,7 +33726,7 @@
 		(layer "B.Cu")
 		(uuid "00000000-0000-0000-0000-00005fe12c29")
 		(at 222.54 167.74 180)
-		(property "Reference" "XS29"
+		(property "Reference" "XS30"
 			(at -4 -2 0)
 			(layer "B.SilkS")
 			(uuid "59dc6969-118f-4acf-8f06-9d7d34cad34c")
@@ -34409,7 +34409,7 @@
 		(layer "B.Cu")
 		(uuid "00000000-0000-0000-0000-00005fe12c74")
 		(at 241.59 167.74 180)
-		(property "Reference" "XS30"
+		(property "Reference" "XS31"
 			(at -4 -2 0)
 			(layer "B.SilkS")
 			(uuid "6cae0cf7-49f6-4bac-88c0-239ceb0cc8bd")
@@ -35092,7 +35092,7 @@
 		(layer "B.Cu")
 		(uuid "00000000-0000-0000-0000-00005fe12cbf")
 		(at 129.563 186.974 120)
-		(property "Reference" "XS34"
+		(property "Reference" "XS35"
 			(at -4 -2 300)
 			(layer "B.SilkS")
 			(uuid "cfa72e0e-2e4a-414b-b10c-815f91b28c08")
@@ -35776,7 +35776,7 @@
 		(layer "B.Cu")
 		(uuid "00000000-0000-0000-0000-00005fe12d0a")
 		(at 155.79 186.974 180)
-		(property "Reference" "XS35"
+		(property "Reference" "XS36"
 			(at -4 -2 0)
 			(layer "B.SilkS")
 			(uuid "b54954b6-a7fe-4577-b6e5-387168d8e792")
@@ -36459,7 +36459,7 @@
 		(layer "B.Cu")
 		(uuid "00000000-0000-0000-0000-00005fe12d55")
 		(at 174.84 184.59 180)
-		(property "Reference" "XS36"
+		(property "Reference" "XS37"
 			(at -4 -2 0)
 			(layer "B.SilkS")
 			(uuid "19c5232d-3f8c-4d4b-ac2c-f0cbaa6268da")
@@ -37142,7 +37142,7 @@
 		(layer "B.Cu")
 		(uuid "00000000-0000-0000-0000-00005fe12da0")
 		(at 193.89 184.59 180)
-		(property "Reference" "XS37"
+		(property "Reference" "XS38"
 			(at -4 -2 0)
 			(layer "B.SilkS")
 			(uuid "19d9de04-96dd-4850-a53d-50d35ce5c386")
